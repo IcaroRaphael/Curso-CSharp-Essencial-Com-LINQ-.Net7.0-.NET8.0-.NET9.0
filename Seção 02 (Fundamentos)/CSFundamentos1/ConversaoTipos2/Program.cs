@@ -21,7 +21,7 @@ Console.WriteLine(Convert.ToDouble(valorInt));
 Console.WriteLine(Convert.ToString(valorBool));
 Console.WriteLine(Convert.ToInt32(valorDouble));
 
-int varInt = 100000;
-Console.WriteLine(Convert.ToByte(varInt));
+//int varInt = 100000;
+//Console.WriteLine(Convert.ToByte(varInt)); //Vai gerar uma exception
 
 Console.ReadLine();
