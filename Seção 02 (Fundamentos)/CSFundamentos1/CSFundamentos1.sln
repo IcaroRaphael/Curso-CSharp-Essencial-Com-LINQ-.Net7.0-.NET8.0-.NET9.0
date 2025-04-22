@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes1", "Constantes1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresIncrementoDecremento1", "OperadoresIncrementoDecremento1\OperadoresIncrementoDecremento1.csproj", "{BB1D9833-4F68-47D7-A32B-7B061A025E3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais1", "OperadoresRelacionais1\OperadoresRelacionais1.csproj", "{3034EB6E-C578-49CA-BF82-4521B8AACE56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +112,10 @@ Global
 		{BB1D9833-4F68-47D7-A32B-7B061A025E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB1D9833-4F68-47D7-A32B-7B061A025E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB1D9833-4F68-47D7-A32B-7B061A025E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3034EB6E-C578-49CA-BF82-4521B8AACE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3034EB6E-C578-49CA-BF82-4521B8AACE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3034EB6E-C578-49CA-BF82-4521B8AACE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3034EB6E-C578-49CA-BF82-4521B8AACE56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
