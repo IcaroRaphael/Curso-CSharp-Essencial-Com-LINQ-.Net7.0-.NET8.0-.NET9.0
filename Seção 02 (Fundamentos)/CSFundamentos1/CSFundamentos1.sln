@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTipos2", "Conversa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{D3AF4FE4-0964-423D-A332-C8D69701EFB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{3047602C-86C7-47C0-B54C-27050234780E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{D3AF4FE4-0964-423D-A332-C8D69701EFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3AF4FE4-0964-423D-A332-C8D69701EFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3AF4FE4-0964-423D-A332-C8D69701EFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3047602C-86C7-47C0-B54C-27050234780E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3047602C-86C7-47C0-B54C-27050234780E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3047602C-86C7-47C0-B54C-27050234780E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3047602C-86C7-47C0-B54C-27050234780E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
