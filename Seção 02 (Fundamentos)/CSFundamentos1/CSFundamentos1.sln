@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos1", "Opera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaOperadores1", "PrecedenciaOperadores1\PrecedenciaOperadores1.csproj", "{B63882AF-A50F-4A81-A27E-EAFAF13396E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposReferenciaAnulaveis1", "TiposReferenciaAnulaveis1\TiposReferenciaAnulaveis1.csproj", "{5A8C4CFE-2CF6-48B4-9258-CB078B693012}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{B63882AF-A50F-4A81-A27E-EAFAF13396E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B63882AF-A50F-4A81-A27E-EAFAF13396E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B63882AF-A50F-4A81-A27E-EAFAF13396E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8C4CFE-2CF6-48B4-9258-CB078B693012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8C4CFE-2CF6-48B4-9258-CB078B693012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8C4CFE-2CF6-48B4-9258-CB078B693012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8C4CFE-2CF6-48B4-9258-CB078B693012}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
