@@ -19,6 +19,10 @@
         //Alocar memoria
         numeros1 = new int[3];
 
+        numeros1[0] = 1;
+        numeros1[1] = 2;
+        numeros1[2] = 3;
+
         Console.ReadKey();
     }
 }
