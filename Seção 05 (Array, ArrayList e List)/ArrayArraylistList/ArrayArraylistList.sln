@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadorParams", "Modifi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysMultidimensoes1", "ArraysMultidimensoes1\ArraysMultidimensoes1.csproj", "{79DCF003-6B48-4D35-823B-EBF651DBA3CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysMultidimensoes2", "ArraysMultidimensoes2\ArraysMultidimensoes2.csproj", "{60D6EFF5-F15A-45C3-932C-67F867536C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{79DCF003-6B48-4D35-823B-EBF651DBA3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79DCF003-6B48-4D35-823B-EBF651DBA3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79DCF003-6B48-4D35-823B-EBF651DBA3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D6EFF5-F15A-45C3-932C-67F867536C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D6EFF5-F15A-45C3-932C-67F867536C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D6EFF5-F15A-45C3-932C-67F867536C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D6EFF5-F15A-45C3-932C-67F867536C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
