@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExArraysBidimensoes", "ExAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList1", "ArrayList1\ArrayList1.csproj", "{4488D4E5-25B8-405E-80DD-DD6A9C47BA94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList2", "ArrayList2\ArrayList2.csproj", "{7B54939F-3BB2-47E5-B4A1-2380E73B898C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{4488D4E5-25B8-405E-80DD-DD6A9C47BA94}.Release|x64.Build.0 = Release|Any CPU
 		{4488D4E5-25B8-405E-80DD-DD6A9C47BA94}.Release|x86.ActiveCfg = Release|Any CPU
 		{4488D4E5-25B8-405E-80DD-DD6A9C47BA94}.Release|x86.Build.0 = Release|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Debug|x64.Build.0 = Debug|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Debug|x86.Build.0 = Debug|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Release|x64.ActiveCfg = Release|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Release|x64.Build.0 = Release|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Release|x86.ActiveCfg = Release|Any CPU
+		{7B54939F-3BB2-47E5-B4A1-2380E73B898C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
