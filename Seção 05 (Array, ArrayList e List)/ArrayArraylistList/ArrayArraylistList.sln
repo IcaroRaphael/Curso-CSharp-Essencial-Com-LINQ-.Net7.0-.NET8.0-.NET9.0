@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList3", "ArrayList3\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList4", "ArrayList4\ArrayList4.csproj", "{DBFC7344-724A-484D-961D-07B358F97D2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColecaoList1", "ColecaoList1\ColecaoList1.csproj", "{0E504E13-45FF-4955-8C9F-CD47C92693DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,18 @@ Global
 		{DBFC7344-724A-484D-961D-07B358F97D2A}.Release|x64.Build.0 = Release|Any CPU
 		{DBFC7344-724A-484D-961D-07B358F97D2A}.Release|x86.ActiveCfg = Release|Any CPU
 		{DBFC7344-724A-484D-961D-07B358F97D2A}.Release|x86.Build.0 = Release|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|x64.Build.0 = Release|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
