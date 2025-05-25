@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList4", "ArrayList4\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColecaoList1", "ColecaoList1\ColecaoList1.csproj", "{0E504E13-45FF-4955-8C9F-CD47C92693DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColecaoList2", "ColecaoList2\ColecaoList2.csproj", "{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,18 @@ Global
 		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|x64.Build.0 = Release|Any CPU
 		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|x86.ActiveCfg = Release|Any CPU
 		{0E504E13-45FF-4955-8C9F-CD47C92693DA}.Release|x86.Build.0 = Release|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Debug|x64.Build.0 = Debug|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Debug|x86.Build.0 = Debug|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Release|x64.ActiveCfg = Release|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Release|x64.Build.0 = Release|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Release|x86.ActiveCfg = Release|Any CPU
+		{DECD64C2-FC1D-43AE-9D8C-46583F0ECA6F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
